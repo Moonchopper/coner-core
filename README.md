@@ -69,3 +69,5 @@ Start the service and access the [local Swagger UI](http://localhost:8080/swagge
 ## Contributing
 
 Interested in contributing to Coner? Please take a look at our [contributing guidlines](https://github.com/carltonwhitehead/coner/blob/master/CONTRIBUTING.md)
+
+<!-- Flighthouse Hub test: safe to close without merging. -->
